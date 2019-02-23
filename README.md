@@ -1,4 +1,4 @@
-# Google-Hashcode-pizza-problem-solution
+# Google_Hashcode_2019_pizza_problem_solution
 This is my solution for the test round problem of 2019 Google Hashcode challenge.
 
 There is provided the solution verifier written in Python 3, so you can easy check your own solution and comapre it with mine.
